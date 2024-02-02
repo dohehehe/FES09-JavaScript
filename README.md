@@ -1,12 +1,22 @@
-## 멋쟁이 사자처럼
+# 멋쟁이 사자처럼
+### 프론트엔드 스쿨 9기
+
 
 ---
 
-### 코어 자바스크립트 학습 저장소
+## Web API - DOM, Events
 
 ---
 
-학습 주제별 브랜치를 나눠 수업을 진행합니다.
-학습 자료는 해당 브랜치로 이동 후 확인할 수 있습니다.
+### BOM API
+- [x] [Browser Environment](https://github.com/dohehehe/core-javascript/blob/02.dom/client/chapter/dom/01.BOM.js)
 
-1. JavaScript Core Branch [바로가기](https://www.naver.com)
+
+
+### DOM API
+- [ ] [DOM Naviagtion]()
+- [ ] [getElement, querySelector]()
+- [ ] [Node Properties]()
+- [ ] [DOM Attributes & Properties]()
+- [ ] [Modigying Document]()
+- [ ] [Styles and Classes]()
