@@ -14,9 +14,20 @@
 
 
 ### DOM API
-- [ ] [DOM Naviagtion]()
-- [ ] [getElement, querySelector]()
-- [ ] [Node Properties]()
-- [ ] [DOM Attributes & Properties]()
-- [ ] [Modigying Document]()
-- [ ] [Styles and Classes]()
+- [x] [DOM Naviagtion]()
+- [x] [getElement, querySelector]()
+- [x] [Node Properties]()
+- [x] [DOM Attributes & Properties]()
+- [x] [Modigying Document]()
+- [x] [Styles and Classes]()
+
+
+### Events (with UI)
+- [x] [Browser Events]()
+- [x] [Bubbling and Capturing]()
+- [x] [Event delegation]()
+- [x] [Default browser action]()
+- [x] [DOMContentLoaded, load, 
+beforeunload, unload]()
+- [x] [defer, asunc script]()
+- [x] [Throttle & Debounce]()

@@ -21,7 +21,10 @@ JavaScript가 작동하는 플랫폼은 호스트(host)라고 불립니다.
 /* Window 객체 ----------------------------------------------------------- */
 
 const { alert, confirm, prompt, setTimeout, setInterval } = window;
+// innerWidth
+// innerHeight
 
+console.log(innerHeight);
 
 
 
